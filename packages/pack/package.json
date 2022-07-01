@@ -1,0 +1,7 @@
+{
+    "name": "pack",
+    "description": "",
+    "scripts": {
+        "build": "npx tsdx build --format cjs,esm"
+    }
+}

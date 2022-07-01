@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {                        
+      "target": "es5",                                
+      "module": "esnext",
+      "outDir": "./build",                              
+      "rootDir": "./src",
+      "strict": true,                                 
+      "noImplicitAny": false,                          
+      "moduleResolution": "node",                  
+      "baseUrl": ".",
+      "esModuleInterop": true,                        
+      "skipLibCheck": true,                           
+      "forceConsistentCasingInFileNames": true        
+    }
+  }
